@@ -104,7 +104,7 @@ fdp-medical-triage/
 | | |
 |---|---|
 | **Task** | Heart disease risk prediction |
-| **Dataset** | `imodels/heart-disease` from HuggingFace |
+| **Dataset** | `aai530-group6/heart-failure-prediction-dataset` from HuggingFace |
 | **Model** | Random Forest Classifier |
 | **Accuracy** | 82–88% |
 | **Output** | `{ "label": "HIGH", "score": 0.78 }` |
