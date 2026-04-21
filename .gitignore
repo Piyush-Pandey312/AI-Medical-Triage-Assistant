@@ -1,0 +1,60 @@
+# ── Model files (too large for GitHub) ───────────────────────────
+*.pkl
+*.h5
+*.keras
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# ── Model folders ─────────────────────────────────────────────────
+ml_model/
+dl_model/
+nlp_model/
+llm_model/
+models/
+
+# ── Secret / credentials ──────────────────────────────────────────
+secrets.py
+.env
+*.env
+config.py
+
+# ── Python cache ──────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Jupyter Notebook checkpoints ──────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ── Google Drive (if mounted locally) ────────────────────────────
+drive/
+content/
+
+# ── OS files ──────────────────────────────────────────────────────
+.DS_Store           # Mac
+Thumbs.db           # Windows
+desktop.ini
+
+# ── Logs and temp files ───────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+nlp_model/
+llm_model/
+
+# ── Virtual environments ──────────────────────────────────────────
+venv/
+env/
+.venv/
+
+# ── Output files ──────────────────────────────────────────────────
+*.png
+*.jpg
+*.jpeg
+output/
+results/
