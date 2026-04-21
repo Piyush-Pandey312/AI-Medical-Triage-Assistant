@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+tensorflow
+scikit-learn
+joblib
+pillow
+spacy
+numpy
+accelerate
